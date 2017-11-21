@@ -1,0 +1,5 @@
+com/jcarroyo/data/stub/TodoServiceStub.class
+com/jcarroyo/business/TodoBusinessImplementationStubTest.class
+FirstMockitoTest.class
+com/jcarroyo/business/TodoBusinessImplementationMockitoTest.class
+com/jcarroyo/mockito/ListTest.class
